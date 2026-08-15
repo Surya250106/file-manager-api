@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.git
+.env
+data
+test.js
+README.md
+implementation_plan.md
+task.md
+walkthrough.md
